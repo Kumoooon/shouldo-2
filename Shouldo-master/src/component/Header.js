@@ -7,12 +7,12 @@ export default function Header() {
         <Link to="/">단어장</Link>
       </h1>
       <div className="menu">
-        <a href="#x" className="link">
+        <Link to="/create_word" className="link">
           단어추가
-        </a>
-        <a href="#x" className="link">
+        </Link>
+        <Link to="/create_day" className="link">
           Day추가
-        </a>
+        </Link>
       </div>
     </div>
   );
