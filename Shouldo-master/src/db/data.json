@@ -1,0 +1,48 @@
+{
+  "days": [
+    {
+      "id": 1,
+      "day": 1
+    },
+    {
+      "id": 2,
+      "day": 2
+    },
+    {
+      "id": 3,
+      "day": 3
+    }
+  ],
+  "words": [
+    {
+      "id": 2,
+      "day": 1,
+      "eng": "bird",
+      "kor": "새",
+      "isDone": false,
+      "isdone": true
+    },
+    {
+      "id": 3,
+      "day": 2,
+      "eng": "bottle",
+      "kor": "병",
+      "isDone": false
+    },
+    {
+      "id": 5,
+      "day": 3,
+      "eng": "paper",
+      "kor": "종이",
+      "isDone": false,
+      "isdone": false
+    },
+    {
+      "id": 6,
+      "day": 3,
+      "eng": "people",
+      "kor": "사람",
+      "isDone": false
+    }
+  ]
+}
